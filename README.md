@@ -1,17 +1,42 @@
-# Retail Sales Data Analysis using Microsoft Excel
+# 🛍️ Retail Sales Analysis using Excel
 
-## 📊 Description
-Analyzed a synthetic retail sales dataset containing customer demographics and purchase records to uncover insights into buying behavior.
+This project presents a comprehensive retail sales analysis built entirely in Microsoft Excel. It explores customer demographics, purchasing patterns, and product trends through dashboards, pivot tables, and EDA.
 
-## 🛠️ Skills Used
-Data Cleaning • Pivot Tables • Charts • Dashboard Design • EDA
+## 📁 Dataset Overview
+- Synthetic retail dataset
+- 1000 transactions from a fictional store
+- Columns: Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quantity, Price per Unit, Total Amount
 
-## 🔍 Key Highlights
-- Cleaned and structured raw sales data for meaningful analysis  
-- Created pivot tables to summarize sales across product categories, gender, age groups, and time  
-- Built a dynamic dashboard with bar, pie, line, and column charts  
-- Derived insights into customer behavior, seasonal trends, and spending patterns
+## 🧪 Key Analysis Performed
+- Age Group Analysis (Categorized using Excel formulas)
+- Gender-wise & Age-wise sales patterns
+- Product Category performance
+- Time-based sales trends
+- Customer purchasing behavior insights
+
+## 📊 Tools Used
+- Microsoft Excel
+  - Pivot Tables
+  - Pivot Charts
+  - Dashboard with slicers
+  - Formulas: `IF`, `VLOOKUP`, `TEXT`, `SUMIFS`, `AVERAGEIFS` etc.
+
+## 📌 Files
+- `Retail-Sales-Dashboard.xlsx`: Complete workbook with:
+  - Raw Data
+  - Age Group column
+  - 4 Pivot Sheets
+  - Final Dashboard
+
+## 💡 What I Learned
+- Building dynamic dashboards
+- Using advanced Excel functions
+- Designing data stories using visuals
+- Business insights from raw transactional data
+
+## 📜 License
+MIT License
 
 ---
 
-📁 File included: `Retail_Sales_Analysis_Ayushi.xlsx`
+✨ This project was created as part of my skill-building journey in Excel during Summer 2025. More projects coming soon!
